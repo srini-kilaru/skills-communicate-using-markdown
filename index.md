@@ -6,3 +6,6 @@ function myFunction () {
    return 42;
 }
 ```
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
